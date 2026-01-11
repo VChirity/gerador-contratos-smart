@@ -1,0 +1,5 @@
+streamlit
+docxtpl
+requests
+faker
+num2words
